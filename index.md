@@ -33,5 +33,5 @@ Easily reorder commits.
 ![Reorder Commits][img-move]
 
 [1]:https://github.com/MitMaro/git-interactive-rebase-tool/releases
-[img-actions]: /assets/images/git-interactive-rebase-actions.gif
-[img-move]: /assets/images/git-interactive-rebase-move.gif
+[img-actions]: assets/images/git-interactive-rebase-actions.gif
+[img-move]: assets/images/git-interactive-rebase-move.gif
