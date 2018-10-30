@@ -1,0 +1,4 @@
+rust:
+  build:
+    dockerfile: ci/dockerfiles/rust
+  cached: true
